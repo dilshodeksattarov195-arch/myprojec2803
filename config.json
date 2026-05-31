@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdncrypt",
+        "uuid": 25717525,
+        "checksum": "3s3k3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
